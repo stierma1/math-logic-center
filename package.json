@@ -1,0 +1,30 @@
+{
+  "name": "math-logic-center",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/math-logic-center.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/math-logic-center/issues"
+  },
+  "homepage": "https://github.com/stierma1/math-logic-center#readme",
+  "devDependencies": {
+    "equations": "^1.3.5",
+    "grunt": "^0.4.5",
+    "grunt-webpack": "^1.0.11",
+    "jquery": "^2.2.0",
+    "request": "^2.67.0",
+    "rx": "^4.0.7",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1",
+    "window-slots": "^1.0.15"
+  }
+}
